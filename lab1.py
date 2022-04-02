@@ -3,7 +3,7 @@
 # Repete o programa após o fim de uma execução.
 while True:
 
-    # Pede o dia do mês e verifica se ele é um número inteiro de 1 a 31. Caso não seja, pergunta novamente.
+    # Pede o dia do mês e verifica se ele é um número inteiro de 1 a 31. Caso não seja, pede novamente.
     while True:
         dia_mes_compra = input("Insira o dia do mês: ")
         try:
@@ -17,7 +17,7 @@ while True:
             else:
                 print("Valor inválido! Ele deve ser um número inteiro de 1 a 31.")
 
-    # Pede o dia da semana e verifica se ele é válido. Caso não seja, pergunta novamente.
+    # Pede o dia da semana e verifica se ele é válido. Caso não seja, pede novamente.
     while True:
         dia_semana_compra = input("Insira o dia da semana: ")
         dias_semana = {"segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"}
@@ -27,7 +27,7 @@ while True:
         else:
             print("Valor inválido! Ele deve ser, por exemplo, \"sexta-feira\", \"sábado\", etc..")
 
-    # Pede o valor inicial e verifica se ele é um número racional não-negativo. Caso não seja, pergunta novamente.
+    # Pede o valor inicial e verifica se ele é um número racional não-negativo. Caso não seja, pede novamente.
     while True:
         valor_inicial = input("Insira o valor da compra sem desconto: ")
         try:
@@ -63,5 +63,5 @@ while True:
     else:
         print(f"Agradecemos a preferência, tenha uma ótima {dia_semana_compra}!\n\n")
     
-    # Insere uma linha de 20 hífens e pula duas linhas, para explicitar a reinicialização do programa.
+    # Insere uma linha com 20 hífens e pula duas linhas, para explicitar a reinicialização do programa.
     print(("-" * 20), "\n\n")
