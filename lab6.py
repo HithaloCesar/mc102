@@ -2,104 +2,84 @@ from typing import List
 
 
 class Room():
+    """Representa uma sala, com suas conexões e seu item."""
     def __init__(self, name: int, connections: List[int]) -> None:
-        self._name = name
+        self.name = name
         self.connections = connections
-        self._has_item = False
+        self.item = None
 
     @property
-    def name(self) -> int:
-        return self._name
+    def item(self) -> str:
+        """Retorna o nome do item."""
+        return self._item
 
-    @name.setter
-    def name(self, name: int) -> None:
-        self._name = name
-
-    def add_item(self, item: object):
-        self.item = item
-        self._has_item = True
-
-    def has_item(self) -> bool:
-        return self._has_item
-
-    def remove_item(self) -> None:
-        self.item = None
-        self._has_item = False
-
-    # def __str__(self):
-    #     return self.name
+    @item.setter
+    def item(self, item: str) -> None:
+        """Define o nome do item."""
+        self._item = item
 
 
 class Entity():
-    def __init__(self, room: object) -> None:
+    """Representa uma entidade.
+
+    Aqui, entidade é algo que existe em uma sala.
+    """
+    def __init__(self, room: Room) -> None:
         self.room = room
 
     @property
-    def room(self) -> object:
+    def room(self) -> Room:
+        """Retorna o nome da sala."""
         return self._room
 
     @room.setter
-    def room(self, room: object) -> None:
+    def room(self, room: Room) -> None:
+        """Define o nome da sala."""
         self._room = room
 
 
-class Item(Entity):
-    def __init__(self, name: str, room: object) -> None:
-        super().__init__(room)
-        self._name = name
-
-    @property
-    def name(self) -> str:
-        return self._name
-
-    # def store_in_player(self, player):
-    #     self.room.name = (
-    #         str(player.room.name) + " (inventário de " + player.name + ")"
-    #     )
-
-
-class NPC(Entity):
-    def __init__(self, room: object) -> None:
-        super().__init__(room)
-
-
 class Player(Entity):
-    def __init__(self, name: str, room: object) -> None:
+    """Representa um jogador, com um inventário.
+
+    Capaz de armazenar itens no inventário, que inicia vazio e é limitado.
+    """
+    def __init__(self, room: Room) -> None:
         super().__init__(room)
-        self.name = name
-        self.is_alive = True
         self.inventory = []
         self.has_sword = False
 
     @property
-    def is_alive(self) -> bool:
-        return self._is_alive
-
-    @is_alive.setter
-    def is_alive(self, is_alive: bool) -> None:
-        self._is_alive = is_alive
-
-    @property
-    def has_sword(self) -> bool:
-        return self._has_sword
-
-    @has_sword.setter
-    def has_sword(self, has_sword: bool) -> None:
-        self._has_sword = has_sword
-
-    @property
     def inventory_size(self) -> int:
+        """Retorna o tamanho do inventário do jogador."""
         return self._inventory_size
 
     @inventory_size.setter
     def inventory_size(self, inventory_size: int) -> None:
+        """Define o tamanho do inventário do jogador."""
         self._inventory_size = inventory_size
 
+    @property
+    def has_sword(self) -> bool:
+        """Retorna o valor da variável has_sword.
+
+        Essa variável define se o jogador possui a espada ou não.
+        """
+        return self._has_sword
+
+    @has_sword.setter
+    def has_sword(self, has_sword: bool) -> None:
+        """Define o valor da variável has_sword."""
+        self._has_sword = has_sword
+
     def describe_room(self) -> None:
-        if self.room.has_item():
+        """Descreve a sala em que o jogador está situado.
+
+        Cita o item e as conexões da sala.
+        """
+        if self.room.item is not None:
             print(
                 "Você está na sala de número", self.room.name,
-                "ela contém um baú com", self.room.item.name,
+                "ela contém um baú com", self.room.item,
                 "e dela você pode ir para as salas",
                 self.room.connections
             )
@@ -111,45 +91,38 @@ class Player(Entity):
             )
 
     def try_to_store_item(self) -> None:
-        print("Pegar", self.room.item.name)
-        if not len(self.inventory) == self.inventory_size:
-            print(self.room.item.name, "adicionado ao inventário")
+        """Tenta mover o item da sala para o inventário do jogador."""
+        if len(self.inventory) < self.inventory_size:
+            print(self.room.item, "adicionado ao inventário")
             self.inventory.append(self.room.item)
-            self.room.remove_item()
+            self.room.item = None
         else:
             print("Inventário cheio!")
 
-    def drank_death_potion(self) -> bool:
-        if self.inventory[-1].name == "poção":
-            print(
-                "Você pegou a poção da morte e virou pó instantaneamente. "
-                "Tente novamente..."
-            )
-            return True
-        else:
-            return False
 
+def generate_rooms() -> List[Room]:
+    """Dado um número p, permite a geração de p salas com conexões.
 
-def generate_rooms():
+    Retorna uma lista (mapa) com os objetos sala gerados."""
     room_count = int(input())
-    rooms = []
+    map_ = []
     for _ in range(room_count):
         room_and_connections = [int(i) for i in input().split()]
-        rooms.append(Room(room_and_connections[0], room_and_connections[1:]))
-    return rooms
+        map_.append(Room(room_and_connections[0], room_and_connections[1:]))
+    return map_
 
 
-def generate_items(rooms):
+def generate_items(map_: List[Room]) -> None:
+    """Dado um número p, permite a geração de p itens em salas."""
     item_count = int(input())
-    items = []
     for _ in range(item_count):
         item_room, item_name = input().split()
         item_room = int(item_room)
-        items.append(Item(item_name, rooms[item_room]))
-        rooms[item_room].add_item(Item(item_name, rooms[item_room]))
+        map_[item_room].item = item_name
 
 
-def start_message():
+def start_message() -> None:
+    """Imprime a mensagem inicial do programa."""
     print(
         "Bem-vindo as Aventuras de Sarah 2.0\n"
         "Sarah acorda no saguão do antigo castelo de sua família,ela tem a"
@@ -161,48 +134,58 @@ def start_message():
     )
 
 
-def final_message(player):
+def potion_message() -> None:
+    """Imprime a mensagem de morte motivada pela poção."""
+    print(
+        "Você pegou a poção da morte e virou pó instantaneamente. Tente"
+        " novamente..."
+    )
+
+
+def encounter_message(player: Player) -> None:
+    """Imprime a mensagem de encontro com o clone.
+
+    É otimista apenas se o jogador possuir a espada em seu inventário."""
     if player.has_sword:
         print(
-            "Você derrotou o clone maligno com a espada mágica!"
-            " Com a Sarah no reino o mundo pode voltar ao equilíbrio."
-            "\nPARABÉNS!"
+            "Você derrotou o clone maligno com a espada mágica! Com a Sarah no"
+            " reino o mundo pode voltar ao equilíbrio.\n"
+            "PARABÉNS!"
         )
     else:
         print(
-            "Infelizmente você encontrou o clone sem a espada das "
-            "fadas e foi derrotado. Tente novamente..."
+            "Infelizmente você encontrou o clone sem a espada das fadas e foi"
+            " derrotado. Tente novamente..."
         )
 
 
 def main():
-    rooms = generate_rooms()
-    generate_items(rooms)
-    clone = NPC(rooms[int(input())])
-    bot = Player("bot", rooms[int(input())])
+    """Executa o programa principal."""
+    map_ = generate_rooms()
+    generate_items(map_)
+    clone = Entity(map_[int(input())])
+    bot = Player(map_[int(input())])
     bot.inventory_size = int(input())
+    bot_path = input()
+    bot_path = [int(i) for i in bot_path.split()]
     start_message()
     print("DEBUG - O clone está na sala:", clone.room.name)
-    bot.describe_room()
-    if bot.room.has_item():
-        bot.try_to_store_item()
-        bot.has_sword = bot.inventory[-1].name == "espada"
-        bot.is_alive = not bot.drank_death_potion()
-    if bot.is_alive:
-        bot_path = input()
-        bot_path = [int(i) for i in bot_path.split()]
-        for i in bot_path:
-            bot.room = rooms[i]
+    for i in range(len(bot_path) + 1):
+        if bot.room != clone.room:
+            bot.describe_room()
+        if bot.room.item is not None:
+            print("Pegar", bot.room.item)
+            bot.try_to_store_item()
+            if bot.inventory[-1] == "espada":
+                bot.has_sword = True
+            if bot.inventory[-1] == "poção":
+                potion_message()
+                break
+        if bot.room == clone.room:
+            encounter_message(bot)
+        else:
+            bot.room = map_[bot_path[i]]
             print("Mover para sala", bot.room.name)
-            if bot.room == clone.room:
-                final_message(bot)
-            else:
-                bot.describe_room()
-                if bot.room.has_item():
-                    bot.try_to_store_item()
-                    if bot.inventory[-1].name == "espada":
-                        bot.has_sword = True
-                    bot.drank_death_potion()
 
 
 if __name__ == "__main__":
