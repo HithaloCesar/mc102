@@ -1,0 +1,5 @@
+nId: 89
+qtdLeitores: 2014
+qtdLeitoresFinal: 209
+qtdCliques: 21
+tempo: 126

@@ -1,0 +1,5 @@
+CR_DR OCTOPUS 5
+7
+['HA_times-square', 'HA_elevador-em-washington']
+['CR_mysterio-atacando-cidade', 'CR_dr-octopus']
+['CC_aranha-construindo-teia', 'CC_nave-alien']

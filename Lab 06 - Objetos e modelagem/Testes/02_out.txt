@@ -1,0 +1,124 @@
+Bem-vindo as Aventuras de Sarah 2.0
+Sarah acorda no saguão do antigo castelo de sua família,ela tem a oportunidade única de derrotar o seu clone maligno que se apoderou do reino.
+Para isso ela deve encontrar o baú da sua família que contém a espada mágica que apenas a verdadeira herdeira pode utilizar.
+Na sala onde está Sarah vê várias portas. Qual é a sua próxima ação?
+DEBUG - O clone está na sala: 10
+Você está na sala de número 2 ela contém um baú com faca e dela você pode ir para as salas [0, 5, 9, 6]
+Pegar faca
+faca adicionado ao inventário
+Mover para sala 6
+Você está na sala de número 6 ela contém um baú com capa e dela você pode ir para as salas [11, 8, 3, 2]
+Pegar capa
+capa adicionado ao inventário
+Mover para sala 2
+Você está na sala de número 2 e dela você pode ir para as salas [0, 5, 9, 6]
+Mover para sala 9
+Você está na sala de número 9 ela contém um baú com candelabro e dela você pode ir para as salas [5, 7, 0, 2]
+Pegar candelabro
+candelabro adicionado ao inventário
+Mover para sala 2
+Você está na sala de número 2 e dela você pode ir para as salas [0, 5, 9, 6]
+Mover para sala 9
+Você está na sala de número 9 e dela você pode ir para as salas [5, 7, 0, 2]
+Mover para sala 5
+Você está na sala de número 5 ela contém um baú com bule e dela você pode ir para as salas [0, 2, 9, 8]
+Pegar bule
+bule adicionado ao inventário
+Mover para sala 0
+Você está na sala de número 0 ela contém um baú com chave e dela você pode ir para as salas [2, 5, 8, 9]
+Pegar chave
+Inventário cheio!
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 5
+Você está na sala de número 5 e dela você pode ir para as salas [0, 2, 9, 8]
+Mover para sala 9
+Você está na sala de número 9 e dela você pode ir para as salas [5, 7, 0, 2]
+Mover para sala 2
+Você está na sala de número 2 e dela você pode ir para as salas [0, 5, 9, 6]
+Mover para sala 6
+Você está na sala de número 6 e dela você pode ir para as salas [11, 8, 3, 2]
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 6
+Você está na sala de número 6 e dela você pode ir para as salas [11, 8, 3, 2]
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 6
+Você está na sala de número 6 e dela você pode ir para as salas [11, 8, 3, 2]
+Mover para sala 11
+Você está na sala de número 11 ela contém um baú com arco e dela você pode ir para as salas [6, 1, 3, 12]
+Pegar arco
+Inventário cheio!
+Mover para sala 1
+Você está na sala de número 1 ela contém um baú com espada e dela você pode ir para as salas [12, 11, 4, 10]
+Pegar espada
+Inventário cheio!
+Mover para sala 4
+Você está na sala de número 4 ela contém um baú com moeda e dela você pode ir para as salas [8, 7, 10, 1]
+Pegar moeda
+Inventário cheio!
+Mover para sala 7
+Você está na sala de número 7 e dela você pode ir para as salas [3, 9, 12, 4]
+Mover para sala 9
+Você está na sala de número 9 e dela você pode ir para as salas [5, 7, 0, 2]
+Mover para sala 0
+Você está na sala de número 0 ela contém um baú com chave e dela você pode ir para as salas [2, 5, 8, 9]
+Pegar chave
+Inventário cheio!
+Mover para sala 5
+Você está na sala de número 5 e dela você pode ir para as salas [0, 2, 9, 8]
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 5
+Você está na sala de número 5 e dela você pode ir para as salas [0, 2, 9, 8]
+Mover para sala 9
+Você está na sala de número 9 e dela você pode ir para as salas [5, 7, 0, 2]
+Mover para sala 0
+Você está na sala de número 0 ela contém um baú com chave e dela você pode ir para as salas [2, 5, 8, 9]
+Pegar chave
+Inventário cheio!
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 5
+Você está na sala de número 5 e dela você pode ir para as salas [0, 2, 9, 8]
+Mover para sala 2
+Você está na sala de número 2 e dela você pode ir para as salas [0, 5, 9, 6]
+Mover para sala 6
+Você está na sala de número 6 e dela você pode ir para as salas [11, 8, 3, 2]
+Mover para sala 2
+Você está na sala de número 2 e dela você pode ir para as salas [0, 5, 9, 6]
+Mover para sala 5
+Você está na sala de número 5 e dela você pode ir para as salas [0, 2, 9, 8]
+Mover para sala 8
+Você está na sala de número 8 ela contém um baú com cálice e dela você pode ir para as salas [0, 6, 4, 5]
+Pegar cálice
+Inventário cheio!
+Mover para sala 4
+Você está na sala de número 4 ela contém um baú com moeda e dela você pode ir para as salas [8, 7, 10, 1]
+Pegar moeda
+Inventário cheio!
+Mover para sala 1
+Você está na sala de número 1 ela contém um baú com espada e dela você pode ir para as salas [12, 11, 4, 10]
+Pegar espada
+Inventário cheio!
+Mover para sala 4
+Você está na sala de número 4 ela contém um baú com moeda e dela você pode ir para as salas [8, 7, 10, 1]
+Pegar moeda
+Inventário cheio!
+Mover para sala 1
+Você está na sala de número 1 ela contém um baú com espada e dela você pode ir para as salas [12, 11, 4, 10]
+Pegar espada
+Inventário cheio!
+Mover para sala 10
+Infelizmente você encontrou o clone sem a espada das fadas e foi derrotado. Tente novamente...

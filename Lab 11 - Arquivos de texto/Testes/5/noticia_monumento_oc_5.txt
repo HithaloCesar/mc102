@@ -1,0 +1,9 @@
+nId: 255
+titulo: MONUMENTO QUILOMETRICO SURGE NO OCEANO
+qtdLeitores: 6296
+qtdLeitoresFinal: 1151
+qtdCliques: 941
+tempo: 110
+noticia: 
+Cras non ullamcorper neque, vitae euismod augue. Duis finibus imperdiet tellus, sed mattis libero bibendum et. Cras consequat nunc sed leo sollicitudin molestie. Suspendisse lorem eros, convallis sed luctus vel, porttitor semper neque. Nulla porttitor, tortor pellentesque feugiat molestie, ipsum lacus sodales libero, vitae euismod sem ante ut enim. Nulla tempor dui a nulla dignissim scelerisque. In pretium pharetra ipsum sed tempus. Nullam sed arcu risus. Ut pellentesque sollicitudin mauris a cursus. Donec sit amet elit rutrum, malesuada risus ut, fermentum risus. Phasellus pellentesque, enim vitae malesuada rhoncus, nisl mauris posuere massa, in sollicitudin enim dui quis nisi. Donec nec nunc dapibus, euismod massa non, dignissim dui. Sed sagittis purus lorem, ac interdum metus imperdiet eu.
+Maecenas rhoncus suscipit odio vitae tempor. Ut nec semper metus. Donec non venenatis enim. Fusce congue dapibus ligula, sed cursus enim porta sit amet. Nam tincidunt ex ipsum, eget vehicula diam ornare et. Nulla pellentesque blandit elit, vitae finibus tortor maximus sit amet. Morbi porta velit vel ligula consectetur, id finibus libero semper. Fusce bibendum turpis sit amet libero accumsan, vitae pretium augue pretium. Curabitur ut nulla nisl. Sed ipsum sem, egestas vitae leo id, laoreet semper nisl.

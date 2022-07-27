@@ -1,0 +1,5 @@
+CC_AJUDANDO idosa 3
+6
+['HA_salto-do-poste-de-energia', 'HA_saltando']
+['CR_dr-octopus', 'CR_atacando-civis']
+['CC_ajudando-idosa']

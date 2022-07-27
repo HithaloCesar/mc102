@@ -1,0 +1,14 @@
+nId: 945
+titulo: ANDAMENTO DA REFORMA DA ESTÁTUA DA LIBERDADE
+qtdLeitores: 947
+qtdLeitoresFinal: 401
+qtdCliques: 24
+tempo: 58
+noticia: 
+Suspendisse suscipit congue urna, et mattis urna sagittis ac. Donec ex diam, interdum et viverra id, tempor eu nisl. Donec efficitur ligula urna, sed placerat mi ultrices vel. Nulla facilisi. Curabitur id metus non turpis tempus ultricies nec molestie tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris iaculis arcu eu metus iaculis molestie. Vivamus quis egestas erat. Phasellus rutrum dapibus nisl, sit amet mollis sapien fermentum eu. Nunc feugiat faucibus semper. Nulla rutrum sed ipsum eu porttitor. Maecenas ut malesuada tellus. Aliquam erat volutpat. Quisque malesuada turpis vel gravida ornare. Morbi augue mauris, rutrum vel augue sed, consectetur scelerisque tellus.
+
+Ut porttitor purus vel neque dignissim, vitae vehicula elit finibus. Aenean vitae consectetur lacus. Praesent ullamcorper luctus bibendum. Ut pharetra dictum fermentum. Praesent convallis egestas nibh, ut aliquet ligula tempus in. Nam faucibus lacinia sapien id tempus. Vestibulum ut nisi augue. Vestibulum facilisis id augue at volutpat. Mauris placerat sed ex sit amet lacinia.
+
+Etiam congue imperdiet ex, ac mollis lorem viverra non. Vivamus auctor urna et nulla iaculis, eu lobortis metus vehicula. Nunc bibendum pellentesque neque at pretium. Duis quis ipsum quis justo egestas ultricies et tincidunt nulla. Vestibulum mi erat, vestibulum vitae aliquet eu, consequat non odio. Ut eleifend luctus felis, vel interdum erat interdum at. Suspendisse potenti. Morbi quis massa ut ipsum vulputate vehicula sit amet eget urna. Pellentesque auctor diam eget elit tincidunt mattis.
+
+Fusce consectetur lacus sem, eget fringilla mi tempus nec. Maecenas vitae massa quis turpis ultricies sollicitudin eget sed nulla. Nulla viverra gravida mattis. Etiam lorem ante, molestie nec velit sed, malesuada vehicula lacus. Proin condimentum varius velit ac lacinia. Cras vehicula blandit enim nec imperdiet. Vivamus lorem ipsum, feugiat at odio quis, mattis venenatis magna. Morbi malesuada lectus ac tempus sollicitudin. Nunc euismod nisl vitae convallis sagittis. Donec convallis orci at posuere consequat. Donec ullamcorper enim nec velit sollicitudin ullamcorper. Phasellus lobortis tortor eu enim finibus, dictum elementum nisl porta. Aenean in justo libero.

@@ -1,0 +1,5 @@
+nId: 675
+qtdLeitores: 1486
+qtdLeitoresFinal: 24
+qtdCliques: 13
+tempo: 45

@@ -1,0 +1,5 @@
+HA_washington dc 5
+9
+['HA_salto-do-poste-de-energia', 'HA_saltando', 'HA_washington-dc', 'HA_saltando-da-torre', 'HA_contra-abutre', 'HA_tomando-um-golpe', 'HA_salvando-tia-may', 'HA_brooklyn', 'HA_atacando-alien-estranho']
+[]
+[]

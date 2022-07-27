@@ -1,0 +1,37 @@
+MENSAGEM DEBUG - número gerado: 299
+MENSAGEM DEBUG - número gerado: 156
+Sarah ganhou 99 pontos de vida!
+MENSAGEM DEBUG - número gerado: 179
+MENSAGEM DEBUG - número gerado: 340
+O clone ganhou 79 pontos de vida!
+MENSAGEM DEBUG - número gerado: 443
+O clone sofreu 138 pontos de dano!
+MENSAGEM DEBUG - número gerado: 140
+Sarah sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 67
+MENSAGEM DEBUG - número gerado: 580
+Sarah ganhou 67 pontos de vida!
+MENSAGEM DEBUG - número gerado: 75
+MENSAGEM DEBUG - número gerado: 636
+O clone ganhou 75 pontos de vida!
+MENSAGEM DEBUG - número gerado: 467
+O clone sofreu 174 pontos de dano!
+MENSAGEM DEBUG - número gerado: 308
+Sarah sofreu 86 pontos de dano!
+MENSAGEM DEBUG - número gerado: 219
+MENSAGEM DEBUG - número gerado: 620
+Sarah ganhou 19 pontos de vida!
+MENSAGEM DEBUG - número gerado: 355
+Sarah sofreu 65 pontos de dano!
+MENSAGEM DEBUG - número gerado: 548
+O clone sofreu 138 pontos de dano!
+MENSAGEM DEBUG - número gerado: 875
+Sarah sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 92
+MENSAGEM DEBUG - número gerado: 755
+Sarah ganhou 92 pontos de vida!
+MENSAGEM DEBUG - número gerado: 276
+MENSAGEM DEBUG - número gerado: 1019
+O clone ganhou 76 pontos de vida!
+O quê? A fada trouxe um monstro gigante com ela!
+Sarah foi derrotada...

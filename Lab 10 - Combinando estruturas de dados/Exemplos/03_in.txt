@@ -1,0 +1,22 @@
+5
+143 Xenomorfo Xenomorfesium | ovos_parasitas bipede
+122 Pleiadian Pleiademus | bipede
+543 Asteromorfo Asteromorfesium | hiper-inteligencia
+132 Eosapiens Eosapienses | pele_azul hiper-inteligencia asas_tentaculos
+565 Malakak Malakamium | bipede pele_azul hiper-inteligencia  
+5
+bipede
+BFEDCBFEDBBDDFC
+FDCBDFDCBFDDBBD
+ovos_parasitas
+BFEECBFEDBBDDFC
+FDFCDFDCBFDDBBD
+hiper-inteligencia
+BFFFECFEDBBDDFC
+FDCBDBBCBFDDBBD
+pele_azul
+BFFFECFEDBBDDFC
+FDCBDBBCBFDDBBF
+asas_tentaculos
+CFEFECDEDBBDDFC
+FBDBDBBCBFDDBBF

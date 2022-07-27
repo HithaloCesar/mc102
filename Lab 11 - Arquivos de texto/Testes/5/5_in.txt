@@ -1,0 +1,16 @@
+15
+ANALISE_VINGADORES_5.txt
+aranhas_5.txt
+blip_oceano_5.txt
+dia_calmo_5.txt
+diy_da_semana_5.txt
+duende_15012015_5.txt
+financas_noticia_5.txt
+not_herois_novos_5.txt
+noticia_da_manha_5.txt
+noticia_monumento_oc_5.txt
+Noticia_principal_setembro_5.txt
+noticiario_Escolas_5.txt
+thanos_5.txt
+times_square_5.txt
+WANDA_SWORD_5.txt

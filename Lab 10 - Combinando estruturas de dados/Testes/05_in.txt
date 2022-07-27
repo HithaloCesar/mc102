@@ -1,0 +1,52 @@
+29
+0 especie_0 species_0 | carac_6 carac_1 
+1 especie_1 species_1 | carac_6 
+2 especie_2 species_2 | carac_3 carac_6 carac_4 
+3 especie_3 species_3 | carac_1 carac_6 
+4 especie_4 species_4 | carac_5 
+5 especie_5 species_5 | carac_0 carac_5 
+6 especie_6 species_6 | carac_5 carac_2 carac_6 
+7 especie_7 species_7 | carac_0 
+8 especie_8 species_8 | carac_5 carac_3 carac_6 
+9 especie_9 species_9 | carac_2 carac_4 carac_3 
+10 especie_10 species_10 | carac_3 carac_5 
+11 especie_11 species_11 | carac_1 carac_3 
+12 especie_12 species_12 | carac_6 carac_5 
+13 especie_13 species_13 | carac_4 carac_0 
+14 especie_14 species_14 | carac_0 carac_2 carac_5 
+15 especie_15 species_15 | carac_6 carac_3 
+16 especie_16 species_16 | carac_5 
+17 especie_17 species_17 | carac_5 carac_1 carac_2 
+18 especie_18 species_18 | carac_6 
+19 especie_19 species_19 | carac_0 
+20 especie_20 species_20 | carac_5 carac_4 
+21 especie_21 species_21 | carac_4 
+22 especie_22 species_22 | carac_4 carac_2 carac_1 
+23 especie_23 species_23 | carac_5 carac_1 carac_2 
+24 especie_24 species_24 | carac_2 
+25 especie_25 species_25 | carac_6 
+26 especie_26 species_26 | carac_4 
+27 especie_27 species_27 | carac_2 carac_0 carac_4 
+28 especie_28 species_28 | carac_4 carac_5 
+7
+carac_0
+EDEDBCFFEDEFFEEBFEFEFCDCFCBCEBEFFCDFBBBFEFD
+DDDDCBEBDDEEDFBDCFBEDBEBEEFDFFCECFEBFDDFCEB
+carac_1
+EEDBFEFDECBEEDDCCEBECBCFCFBDFEBFEEBFEEEFFEC
+CCEEBBBBBCBBBCBBEDCEBBFBDFCDDFDCBBDDEEFEBEF
+carac_2
+CDFDFBDDBBDCFDFBEECDECBCCBDCFCCBBDEEBECDEBF
+DEFEFECEBDDCECEBECBDCFEDDBBFFDFFEDDECBFFFCF
+carac_3
+FCBEEBCFCEDEFFFECBBDCDCFDFEFDEFFDDEFBEEDDED
+ECBBEDDFEBFFBECBDDFBFDCFFDFFFDBCFFEBBEEDDEB
+carac_4
+DDBBEBBEBDCFDCFBCFEDDCBBDBDFFCFBCBCEEBEBBBE
+DDCBDEDBCBEFBFCBBCECDEBBFCFCFCDBCDCEFCEFCDC
+carac_5
+CCBCCBFBCFBBCEFECBDCBFFFDBBECEFCFCCDDFBBCEB
+BBDEBFFBBEDCFBEFBDFDCDBBBCCDEFBBDDBDBECECCE
+carac_6
+DCDFECFCFDBBBDCEECEDFDBBDCDBEBCEEFECDFBDCCE
+DCBEDBDFCCEDFBCDDFCECBCEEEBDFDEDBEBCDBDFCBF

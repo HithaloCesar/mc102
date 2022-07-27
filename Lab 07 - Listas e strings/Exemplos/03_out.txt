@@ -1,0 +1,6 @@
+CR_preso pela policia 5
+7
+['HA_entrando-no-tunel-de-trem', 'HA_tomando-um-golpe',
+'HA_times-square', 'HA_tunel-de-trem', 'HA_ataque']
+['CR_preso-pela-policia']
+[]

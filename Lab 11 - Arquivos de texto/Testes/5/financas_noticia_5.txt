@@ -1,0 +1,14 @@
+nId: 145
+titulo: OSCORP VENDE TORRE EM NOVA IORQUE A COMPRADOR DESCONHECIDO 14
+qtdLeitores: 4561
+qtdLeitoresFinal: 3458
+qtdCliques: 1025
+tempo: 149
+noticia: 
+dictum ut in velit. Fusce tristique, ante eget hendrerit dapibus, ligula nisi tincidunt orci, nec porttitor sem ligula ac lacus. Integer elementum tempus congue. Praesent blandit odio eros. Duis lobortis nunc non lectus tempor, quis tincidunt nulla ultrices. Nulla facilisi. Integer ultrices velit quis odio egestas, sed sagittis enim varius. Phasellus ac est nec enim accumsan mattis. Maecenas feugiat lobortis bibendum. Maecenas metus purus, sollicitudin ac dignissim in, vulputate eget arcu. Sed faucibus laoreet quam, ut viverra ipsum viverra in. Suspendisse magna turpis, finibus ac neque non, pharetra dignissim sem.
+
+Nunc fermentum odio ante, in dictum erat tincidunt et. Integer accumsan, ligula ac accumsan rhoncus, lectus arcu mattis nunc, ac pellentesque mi magna at libero. In a congue mauris. Duis eu congue velit, eu convallis felis. Sed faucibus, arcu in facilisis pretium, leo nulla accumsan diam, in imperdiet enim eros sit amet massa. Nulla feugiat sit amet diam vitae laoreet. Vestibulum blandit tincidunt leo eget sollicitudin. Praesent interdum leo vitae augue elementum mattis a et risus. Ut lacus neque, tincidunt in enim id, ultrices rhoncus lorem. Nunc molestie arcu a mi aliquet, at volutpat lacus hendrerit. Sed id elementum odio, nec lobortis orci. Aliquam volutpat enim at mattis sagittis. Vestibulum purus purus, luctus cursus dolor feugiat, laoreet pellentesque quam. Donec tempus dui a sollicitudin faucibus.
+
+Etiam aliquet tellus at nisl suscipit aliquam. Proin laoreet accumsan dui, eu congue est maximus vel. Sed venenatis facilisis lectus, eget elementum quam pharetra eget. Suspendisse nibh sapien, sodales sit amet venenatis ac, consectetur fringilla enim. Duis posuere, lectus eu fermentum ullamcorper, lacus risus faucibus neque, id eleifend nisi lorem at quam. In interdum odio eros, id luctus est faucibus eget. Cras a suscipit leo. Nullam consequat maximus odio. Mauris vel dignissim mauris.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris et mollis lorem. Suspendisse varius molestie neque, in elementum diam pellentesque non. Phasellus blandit lobortis urna, eu tempus felis pretium a. Aenean fringilla, mi quis tincidunt ullamcorper, nunc augue luctus metus, sed gravida arcu purus non nunc. Nulla interdum, libero sed fringilla commodo, lorem lacus tincidunt enim, eu mollis diam arcu ut lacus. Praesent a sapien at erat rhoncus blandit.

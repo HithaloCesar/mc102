@@ -1,0 +1,17 @@
+Bem-vindo as Aventuras de Sarah 2.0
+Sarah acorda no saguão do antigo castelo de sua família,ela tem a oportunidade única de derrotar o seu clone maligno que se apoderou do reino.
+Para isso ela deve encontrar o baú da sua família que contém a espada mágica que apenas a verdadeira herdeira pode utilizar.
+Na sala onde está Sarah vê várias portas. Qual é a sua próxima ação?
+DEBUG - O clone está na sala: 14
+Você está na sala de número 12 e dela você pode ir para as salas [6, 13, 5, 11]
+Mover para sala 6
+Você está na sala de número 6 e dela você pode ir para as salas [12, 4, 0, 9]
+Mover para sala 0
+Você está na sala de número 0 e dela você pode ir para as salas [2, 10, 3, 6]
+Mover para sala 10
+Você está na sala de número 10 ela contém um baú com espada e dela você pode ir para as salas [3, 7, 0, 14]
+Pegar espada
+espada adicionado ao inventário
+Mover para sala 14
+Você derrotou o clone maligno com a espada mágica! Com a Sarah no reino o mundo pode voltar ao equilíbrio.
+PARABÉNS!
