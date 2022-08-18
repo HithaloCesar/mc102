@@ -1,6 +1,6 @@
 # Pede a idade do usuário, que deve ser um número inteiro.
 idade = int(input())
- 
+
 # Realiza a parte do teste destinada a usuários de menos de 25 anos.
 if idade < 25:
     segundos = input()
@@ -21,7 +21,7 @@ if idade < 25:
         else:
             print("RESULTADO")
             print("Sua página de memes é: @meltmemes")
- 
+
 # Realiza a parte do teste destinada a usuários de 25 a 40 anos.
 elif idade <= 40:
     banda = input()
@@ -56,7 +56,7 @@ elif idade <= 40:
             print("Sua página de memes é: @wrongchoicememes")
         else:
             print("Erro: entrada inválida")
- 
+
 # Realiza a parte do teste destinada a usuários de 41 a 125 anos.
 else:
     bom_dia = input()
