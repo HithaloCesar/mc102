@@ -1,7 +1,0 @@
-mitologia_centauros
-mitologia_centauros_centaurs.txt
-mitologia_centauros_paginawikipedia.html
-mitologia_fenix
-mitologia_fenix_livro.pdf
-mitologia_fenix_paginawikipedia.html
-mitologia_fenix_peter.png

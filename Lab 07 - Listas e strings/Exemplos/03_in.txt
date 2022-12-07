@@ -1,1 +1,0 @@
-CC_FIM DO EXPEDIENTE, HA_ENTRANDO NO TUNEL DE TREM, HA_TOMANDO UM-GOLPE, HA_TOMANDO UM-GOLPE, HA_TOMANDO UM-GOLPE, HA_TIMES SQUARE, HA_TUNEL DE TREM, HA_TUNEL DE TREM, CR_preso pela policia, HA_TIMES SQUARE, CR_preso pela policia, CR_preso pela policia, CR_preso pela policia, CR_preso pela policia, CR_preso pela policia, HA_TIMES SQUARE, HA_ATAQUE/ CC_FIM DO EXPEDIENTE

@@ -1,6 +1,0 @@
-HA_TOMANDO UM-GOLPE 4
-8
-['HA_tomando-um-golpe', 'HA_saltando', 'HA_ataque']
-['CR_atingido-pela-tampa-de-bueiro', 'CR_dr-octopus',
-'CR_atingido-pela-tampa-de-bueiro-2']
-['CC_policia-chegando']
