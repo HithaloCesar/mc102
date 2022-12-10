@@ -1,9 +1,0 @@
-nId: 2655
-titulo: DESABAMENTO CAUSA FERIDOS E HOSPITALIZADOS NA TIMES SQUARE
-qtdLeitores: 146
-qtdLeitoresFinal: 42
-qtdCliques: 110
-tempo: 64
-noticia: 
-Integer in porta odio. Ut non arcu dolor. Nullam varius posuere purus sit amet laoreet. Etiam eget massa vitae sapien consequat lobortis. Proin aliquet viverra purus, quis tempor arcu tristique vel. In vel venenatis purus. Etiam hendrerit nisi sit amet dui facilisis tempor eu ut lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec aliquet, mauris et mollis dignissim, erat purus auctor arcu, sit amet luctus mauris velit ut magna. Duis turpis risus, bibendum a interdum in, tempor vel tellus. Aliquam in sem viverra, bibendum risus eget, ullamcorper ligula. Maecenas venenatis aliquet justo et hendrerit. Mauris lobortis fermentum dolor at auctor.
-Fusce ex erat, lacinia et congue vel, mattis in orci. Cras neque mauris, sollicitudin a ligula vel, elementum cursus nibh. Nulla congue sem vitae libero consectetur, sit amet volutpat purus euismod. Fusce eget vulputate nisi, ac bibendum felis. Cras egestas rhoncus turpis, sit amet accumsan justo commodo eget. Sed eu tortor mauris. Curabitur auctor ultricies rhoncus. In neque lacus, luctus sed faucibus vel, egestas nec enim. Donec sit amet auctor sapien, faucibus lobortis dui. Donec malesuada, nunc sit amet vulputate sollicitudin, orci purus tempus odio, et porta libero neque id lorem.

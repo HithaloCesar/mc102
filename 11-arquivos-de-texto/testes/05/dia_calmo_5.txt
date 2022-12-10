@@ -1,9 +1,0 @@
-nId: 6845
-titulo: HOMEM-ARANHA AJUDA SENHORA A ATRAVESAR A RUA
-qtdLeitores: 30
-qtdLeitoresFinal: 14
-qtdCliques: 2
-tempo: 40
-noticia: 
-Nullam tincidunt varius purus, ac consequat eros venenatis ac. Proin vel est vel elit dignissim ullamcorper. Morbi quis ipsum sit amet nisl cursus molestie. Etiam volutpat elit nisi, tincidunt finibus leo pellentesque a. Pellentesque efficitur, sapien ac suscipit varius, sem eros imperdiet enim, in sagittis eros mi sed libero. In non luctus velit, at laoreet purus. Suspendisse id eros nulla. Nunc pellentesque mauris vel velit dictum, dignissim suscipit risus facilisis. Suspendisse aliquam nisl augue, eu vehicula purus commodo a. Nunc in dolor eget erat tempus iaculis vel id diam. Nunc tempor egestas sapien sed ullamcorper. Praesent pulvinar in ante sit amet condimentum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget risus venenatis, fermentum nunc a, laoreet tortor. Morbi auctor a tortor non auctor. Aliquam aliquam bibendum ultricies. Integer porta nisi non faucibus congue. Sed nec consectetur ligula. Etiam maximus fringilla lacus, non mattis dui. Donec pharetra, nibh ac egestas gravida, augue nisl dapibus eros, ac hendrerit lacus massa cursus orci. Pellentesque nec quam sed metus venenatis tristique sed vitae nisi. Quisque purus nibh, accumsan sed lorem at, ultrices accumsan nibh. Ut viverra lobortis nulla sit amet auctor. Nunc consectetur gravida lorem, ut sagittis leo placerat efficitur. Nulla aliquam scelerisque risus, vitae ultricies nunc viverra ac. Quisque in lacus sed eros vulputate vulputate at vitae dolor. Mauris quis leo at ex rutrum lacinia a vel sapien. Mauris volutpat tincidunt ullamcorper.

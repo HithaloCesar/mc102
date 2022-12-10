@@ -1,5 +1,0 @@
-4
-aranhas.txt
-dia_calmo.txt
-Noticia_principal_setembro_2.txt
-times_square.txt

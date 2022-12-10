@@ -1,5 +1,0 @@
-HA_ATAQUE 8
-42
-['HA_em-ny', 'HA_saltando', 'HA_washington-dc', 'HA_elevador-em-washington', 'HA_ataque', 'HA_tunel-de-trem', 'HA_saltando-da-torre', 'HA_salvando-tia-may', 'HA_ataque-de-helicoptero', 'HA_salto-do-poste-de-energia', 'HA_brooklyn', 'HA_times-square']
-['CR_abutre-com-falha-nas-asas', 'CR_mysterio-reunindo-grupo', 'CR_dr-octopus', 'CR_upgrade-de-armadura', 'CR_atacando-civis', 'CR_nova-gangue', 'CR_bomba-duende-verde', 'CR_sob-ataque', 'CR_golpeando-o-homem-aranha', 'CR_fugindo', 'CR_atingido-pela-tampa-de-bueiro', 'CR_mysterio-atacando-cidade', 'CR_preso-pela-policia']
-['CC_policia-chegando', 'CC_bandido-foragido', 'CC_times-square-apagada', 'CC_fim-do-expediente', 'CC_tanque-na-avenida-principal', 'CC_ponte', 'CC_foto-da-paisagem', 'CC_explosão-na-ponte', 'CC_chegada-dos-vingadores', 'CC_ataque-no-parque', 'CC_nave-alien', 'CC_ajudando-idosa', 'CC_torres-de-energia-elétrica', 'CC_aranha-construindo-teia', 'CC_laboratorio', 'CC_ceu-dominado-por-abelhas']

@@ -1,9 +1,0 @@
-8
-blip_oceano.txt
-diy_da_semana.txt
-not_herois_novos.txt
-noticia_da_manha.txt
-noticia_monumento_oc.txt
-noticiario_Escolas.txt
-thanos.txt
-WANDA_SWORD.txt

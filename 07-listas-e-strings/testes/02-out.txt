@@ -1,5 +1,0 @@
-CC_Explosão No PArque 11
-22
-['HA_times-square', 'HA_elevador-em-washington', 'HA_washington-dc', 'HA_salvando-tia-may', 'HA_ataque-de-helicoptero', 'HA_brooklyn', 'HA_saltando']
-['CR_mysterio-atacando-cidade']
-['CC_explosão-na-ponte', 'CC_quarto-de-aluguel', 'CC_bandido-foragido', 'CC_foto-da-paisagem', 'CC_torres-de-energia-elétrica', 'CC_teste-do-ned', 'CC_ajudando-idosa', 'CC_times-square-apagada', 'CC_explosão-no-parque', 'CC_carro-pendurado-na-teia', 'CC_tanque-na-avenida-principal', 'CC_mj', 'CC_aranha-construindo-teia']

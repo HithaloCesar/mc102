@@ -1,9 +1,0 @@
-nId: 1874
-titulo: HOMEM-ARANHA FORAGIDO
-qtdLeitores: 5345
-qtdLeitoresFinal: 5241
-qtdCliques: 1657
-tempo: 126
-noticia: Sed porttitor tempus nulla, sit amet aliquam libero hendrerit a. Vivamus dignissim a lorem sed gravida. Aliquam interdum ultricies fringilla. Vestibulum ac convallis purus. Vestibulum vehicula efficitur odio, et tincidunt eros commodo id. Proin luctus aliquam lorem quis sodales. Nullam blandit varius nisi non lobortis. Quisque pulvinar arcu neque, eget elementum urna egestas vitae.
-Nam consectetur, ex non consectetur vulputate, mi dolor vulputate erat, eget tristique odio ipsum nec tellus. Sed luctus malesuada tellus, nec consectetur magna aliquam et. Morbi interdum eu purus lacinia rutrum. Nulla tempus molestie imperdiet. Maecenas tortor felis, mollis id rhoncus ac, pretium eu ipsum. Mauris bibendum neque nulla, vel ornare ex imperdiet at. Sed in lorem id felis commodo semper nec a ante. Nullam faucibus odio sed nisi congue, id bibendum leo tempus. Suspendisse sit amet libero sed turpis sodales mollis. Nunc viverra efficitur fermentum. Phasellus non dolor arcu. Vivamus maximus justo felis, ac posuere lorem interdum sed. Integer suscipit ultrices finibus. Nulla tempus, nisi eget eleifend facilisis, leo augue aliquam lectus, suscipit elementum leo risus ac sem.
-In vitae bibendum dui. In venenatis sollicitudin eros ut tristique. In ullamcorper gravida nunc eget lacinia. Nunc sollicitudin vehicula turpis, in facilisis massa aliquam non. Pellentesque lacus nibh, egestas quis nisl sit amet, aliquet tristique neque. Fusce at tristique ante, et vestibulum massa. Mauris tellus eros, porttitor vel vestibulum at, tristique in augue. In iaculis, tortor sit amet pretium auctor, est lectus consequat arcu, imperdiet ullamcorper erat dui eget mi.

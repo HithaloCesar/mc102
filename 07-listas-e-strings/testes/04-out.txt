@@ -1,5 +1,0 @@
-CC_POLICIA CHEGANDO 5
-15
-[]
-['CR_bomba-duende-verde', 'CR_preso-pela-policia', 'CR_abutre-com-falha-nas-asas', 'CR_nova-gangue']
-['CC_ataque-no-parque', 'CC_policia-chegando', 'CC_ceu-dominado-por-abelhas', 'CC_ataque-dos-criminosos', 'CC_torres-de-energia-elétrica', 'CC_bandido-foragido', 'CC_nave-alien', 'CC_ponte', 'CC_carro-pendurado-na-teia', 'CC_mj']
