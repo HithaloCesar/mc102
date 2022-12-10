@@ -1,0 +1,19 @@
+MENSAGEM DEBUG - número gerado: 954
+MENSAGEM DEBUG - número gerado: 645
+Sarah ganhou 54 pontos de vida!
+MENSAGEM DEBUG - número gerado: 530
+Sarah sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 749
+O clone sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 234
+MENSAGEM DEBUG - número gerado: 725
+O clone ganhou 34 pontos de vida!
+MENSAGEM DEBUG - número gerado: 66
+O clone sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 573
+Sarah sofreu 95 pontos de dano!
+MENSAGEM DEBUG - número gerado: 26
+O clone sofreu 104 pontos de dano!
+MENSAGEM DEBUG - número gerado: 293
+Sarah sofreu 97 pontos de dano!
+Sarah foi derrotada...

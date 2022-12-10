@@ -1,0 +1,8 @@
+MENSAGEM DEBUG - número gerado: 314
+O clone sofreu 24 pontos de dano!
+MENSAGEM DEBUG - número gerado: 261
+Sarah sofreu 0 pontos de dano!
+MENSAGEM DEBUG - número gerado: 914
+O clone sofreu 62 pontos de dano!
+O clone foi derrotado! Sarah venceu!
+FIM - PARABENS
