@@ -1,0 +1,16 @@
+graficos_sarah
+graficos_monstro
+graficos_fada
+graficos_sarah_soco
+graficos_monstro_bafodefogo
+graficos_sarah_1.png
+graficos_sarah_2.png
+graficos_sarah_soco_1.png
+graficos_sarah_soco_2.png
+graficos_monstro_bafodefogo_1.png
+graficos_monstro_bafodefogo_2.png
+graficos_monstro_bafodefogo_3.png
+graficos_monstro_bafodefogo_4.png
+graficos_fada_1.png
+graficos_fada_2.png
+graficos_fada_ex.png
