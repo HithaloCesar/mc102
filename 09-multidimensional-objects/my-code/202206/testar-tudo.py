@@ -12,16 +12,16 @@ if not os.path.exists(labfile):
 
 i = 1
 test_name = str(i).zfill(2)
-in_file = "tests/" + test_name + "-in.txt"
+in_file = "../../tests/" + test_name + "-in.txt"
 
 while (os.path.exists(in_file)):
-	out_file = "tests/" + test_name + "-out.txt"
+	out_file = "../../tests/" + test_name + "-out.txt"
 	if not os.path.exists(out_file):
 		print("Arquivo", out_file, "não encontrado.")
 		sys.exit()
 
-	ans_file = "tests/" + test_name + "-ans.txt"
-	diff_file = "tests/" + test_name + "-diff.txt"
+	ans_file = "../../tests/" + test_name + "-ans.txt"
+	diff_file = "../../tests/" + test_name + "-diff.txt"
 
 	os.system("python " + labfile + " < " + in_file + " > " + ans_file)
 	if os.system("diff " + ans_file + " " + out_file + " > " + diff_file) == 0:
@@ -35,4 +35,4 @@ while (os.path.exists(in_file)):
 	os.remove(ans_file)
 	i += 1
 	test_name = str(i).zfill(2)
-	in_file = "tests/" + test_name + "-in.txt"
+	in_file = "../../tests/" + test_name + "-in.txt"
