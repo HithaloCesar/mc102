@@ -1,4 +1,4 @@
-MAIN = lab02
+MAIN = lab04
 
 SRC = $(wildcard *.c)
 OBJ = $(patsubst %.c, %.o, $(SRC))

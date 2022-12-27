@@ -83,6 +83,6 @@ MENSAGEM DEBUG - número gerado: 715
 MENSAGEM DEBUG - número gerado: 1020
 Sarah ganhou 15 pontos de vida!
 O quê? A fada trouxe um monstro gigante com ela!
-O Clone e o castelo foram destruídos,
+O clone e o castelo foram destruídos,
 e Sarah agora tem um novo pet.
 FINAL SECRETO - PARABENS???
