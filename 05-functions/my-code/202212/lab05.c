@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "rpg.h"
 
 int main(void)
@@ -23,6 +24,10 @@ int main(void)
 		check_battle_end(g);
 		g->player_turn = !g->player_turn;
 	}
+
+	free(player);
+	free(enemy);
+	free(g);
 
 	return 0;
 }
